@@ -1,0 +1,22 @@
+/* style for each student */
+.student{
+    background-color: lightcyan;
+    padding: 20px;
+}
+.student p{
+    text-align: left;
+}
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.amount-button{
+    background-color: #f3aa92;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
